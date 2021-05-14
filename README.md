@@ -1,5 +1,5 @@
 👋 Hi, I’m Tarandeep
-- 🌱 I’m currently learning Next.js and Serverless
+- 🌱 I’m currently learning backend development
 - 💞️ I’m looking to discover interesting open source projects
 - 📫 The best way to reach me is via email: taran.thamrait@gmail.com
 
