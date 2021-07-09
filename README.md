@@ -1,6 +1,6 @@
 👋 Hi, I’m Tarandeep
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to discover interesting open source projects
+- 🌱 I’m a backend engineer at Fieldwire
+- 💞️ I’m currently learning Ruby on Rails
 - 📫 The best way to reach me is via email: taran.thamrait@gmail.com
 
 <!---
