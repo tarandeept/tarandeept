@@ -1,6 +1,6 @@
 👋 Hi, I’m Tarandeep
 - 🌱 I’m a backend engineer at Fieldwire
-- 💞️ I’m currently learning Ruby on Rails
+- ✨ I’m currently learning Ruby on Rails and AWS CDK
 - 📫 The best way to reach me is via email: taran.thamrait@gmail.com
 
 <!---
